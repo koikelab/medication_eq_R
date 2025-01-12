@@ -4,7 +4,7 @@ An R code for calculating equivalent doses especially for psychiatry research [1
 
 ## References
 
-[1] Koike S, Hirano Y, Nakajima S, Morita K. Medication equivalent dose program in R. 2025.
+[1] Koike S, Hirano Y, Nakajima S, Morita K. Medication equivalent dose program in R. 2025.<br>
 [2] Inada T, Inagaki A. Psychotropic dose equivalence in Japan. Psychiatry and Clinical Neurosciences. 2015; 69: 440–7. 
 
 
