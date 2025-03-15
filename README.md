@@ -4,9 +4,9 @@ An R code for calculating equivalent doses especially for psychiatry research [1
 
 ## References
 
-[1] Koike S, Hirano Y, Nakajima S, Morita K. Medication equivalent dose program in R. 2025.<br>
+[1] Koike S, Hirano Y, Nakajima S, Morita K. Medication equivalent dose program in R. Psychiatry and Clinical Neurosciences. 2025 in press.<br>
 [2] Inada T, Inagaki A. Psychotropic dose equivalence in Japan. Psychiatry and Clinical Neurosciences. 2015; 69: 440–7. 
-[3] Inagaki A, Inada T. Dose equivalence of psychotropic drugs (Part 28). Dose equivalence of novel antipsychotics : Brexpiprazole. Japanese journal of clinical psychopharmacology. 2022; 25: 91–8. 
+[3] Inagaki A, Inada T. Dose equivalence of psychotropic drugs (Part 28). Dose equivalence of novel antipsychotics : Brexpiprazole. Japanese Journal of Clinical Psychopharmacology. 2022; 25: 91–8. 
 
 ## How to use
 1. Download and extract all files and folders.
