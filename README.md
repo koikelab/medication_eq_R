@@ -19,6 +19,6 @@ An R code for calculating equivalent doses especially for psychiatry research [1
 ## Update history
 
 ### Oct 4, 2025
-A minor revision of medication_list.xlsx in the source folder.
+A minor revision of medication_list.xlsx in the source folder.<br>
 Edit the R code for the source file.
 
