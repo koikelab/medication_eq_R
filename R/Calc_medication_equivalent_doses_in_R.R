@@ -7,11 +7,11 @@ input.filename.full <- file.choose()
 use <- read.xlsx(input.filename.full, detectDates = TRUE)
 
 # read from the source file
-eq <- read.xlsx("../source/240919medication_lists.xlsx",  # please update if needed
+eq <- read.xlsx("../source/251004medication_lists.xlsx",  # please update if needed
                 sheet = "eq",
                 detectDates = TRUE
 )
-annot <- read.xlsx("../source/240919medication_lists.xlsx",  # please update if needed
+annot <- read.xlsx("../source/251004medication_lists.xlsx",  # please update if needed
                    sheet = "annot",
                    detectDates = TRUE
 )
