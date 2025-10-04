@@ -15,3 +15,10 @@ An R code for calculating equivalent doses especially for psychiatry research [1
 4. When running the program, you can choose an input file. For example, you choose '../input/example.xlsx'.
 5. The calculated equivalent doses per row and per ID and date in the 'output' folder.
 6. If you want to change the drug name and equivalent dose pair in the source file, you choose the edited file in Line 10 and 14 of the R code. If you want to add the new equivalent dose, please refer to Line 29-38 in the code.
+
+## Update history
+
+### Oct 4, 2025
+A minor revision of medication_list.xlsx in the source folder.
+Edit the R code for the source file.
+
